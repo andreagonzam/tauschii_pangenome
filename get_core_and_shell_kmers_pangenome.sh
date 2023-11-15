@@ -1,9 +1,12 @@
+#!/bin/bash
+
 ###############################################################################
 #Code for extracting and counting core and shell k-mers in a pangenome dataset
 #Input files are sorted k-mers (no counts) extracted from illumina reads per sample
 ###############################################################################
 
-#!/bin/bash
+#Usage
+#
 
 #Positional arguments
 #$1 = input kmer file 1
