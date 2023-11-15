@@ -6,7 +6,7 @@
 ###############################################################################
 
 #Usage
-#
+#get_core_and_shell_kmers_pangenome.sh <kmer_file_1> <kmer_file_2> <kmer_files_all.fofn>
 
 #Positional arguments
 #$1 = input kmer file 1
